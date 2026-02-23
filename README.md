@@ -1,6 +1,6 @@
 # YOLOv8m Custom Object Detection Training
 
-![Performance Curve](performance_curve.png)
+![Performance Curve](results/runs/detect/Dental_Cavity_Research/v8m_full_research/graphs/Code_Generated_Image (1).png)
 
 This repository contains the implementation and training results for a custom object detection model based on the **YOLOv8 (Ultralytics)** architecture. The model was trained over 80 epochs to detect specific classes in a custom dataset with high precision and recall.
 
